@@ -1,0 +1,7 @@
+procedure ;
+var y;
+begin
+y:= 2;
+end;
+call A;
+end.
